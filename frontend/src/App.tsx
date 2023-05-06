@@ -11,6 +11,7 @@ function App() {
           position={"relative"}
           mt={4}
           fontSize="x-large"
+          fontFamily="monospace"
           _after={{
             content: "''",
             width: "full",
@@ -27,7 +28,7 @@ function App() {
             transition: "transform 0.2s ease-in-out",
           }}
         >
-          Type Something Below
+          Please Type Something Below
         </Text>
       </Center>
       <Landing />

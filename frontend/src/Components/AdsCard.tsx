@@ -30,7 +30,7 @@ const AdsCard = ({
       p={6}
       textAlign={"center"}
       _hover={{
-        transform: "scale(0.9)",
+        transform: "scale(1.1)",
         transition: "transform 0.2s ease-in-out",
       }}
     >
